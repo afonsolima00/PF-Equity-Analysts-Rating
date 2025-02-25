@@ -1,0 +1,3 @@
+# Description
+
+Develop a small script that gathers free analyst sentiment or rating data for one public company (e.g., a large tech firm) and merges it with historical price data to see whether analyst upgrades/downgrades correlate with short-term price movements. Once you’ve compiled the data, produce a concise summary (with any correlations or patterns) so that you can assess if riding analyst sentiment is profitable. This directly supports your goal of expanding financial research skills and strengthening the link between real-world data and actionable trading insights.
